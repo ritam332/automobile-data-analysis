@@ -1,1 +1,1 @@
-# automobile-data-analysis
+# Analyzed automobile data using Seaborn library in Jupyter Notebook. Created diverse plots to visualize trends in car attributes like mileage, horsepower, and price. Provided insights into relationships between variables, aiding in understanding market dynamics.
